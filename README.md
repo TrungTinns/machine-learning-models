@@ -71,24 +71,54 @@ Overfitting occurs when a model is too closely fitted to the training data and p
 ### List of Figures
 
 - Figure 1: Machine Learning Types
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/7ead4175-6697-467f-a9f9-d6c5150b57a6)
+
 - Figure 2: Main Types of ML Algorithm
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/e1a5e750-cdf6-44cb-910e-8c39071c2960)
+
 - Figure 3: Classification and Regression Function
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/a7d33bee-210f-4f00-9fac-a10e1c7e7dc5)
+
 - Figure 4: Clustering Algorithm
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/180c433c-db58-4ece-9dd4-59b1d3afefb7)
+
 - Figure 5: Association Rule
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/60ffe293-8b3f-4881-a3b9-d61274055b87)
+
 - Figure 6: Good Fitting Model
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/87666f18-2c92-4a6d-ba00-d4443ae258e4)
+
 - Figure 7: Unfitting Model
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/8c30230f-6c42-4976-aae5-0e4764c9d156)
+
 - Figure 8: Example of Overfitting
 - Figure 9: Overfitting Model
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/fe9cbe15-9c11-4f9e-9425-7f07d1a83b95)
+
 - Figure 10: Overfitting example
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/0dcb1fac-eaf8-4f4a-923f-08e20c8d3581)
+
 - Figure 11: Cross Validation
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/c42c065f-8e64-4d91-bb55-940693adc3d5)
+
 - Figure 12: Data Augmentation
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/c2ae9091-fe99-43d7-994c-eb1f3460c359)
+
 - Figure 13: Example of Feature Selection
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/7dbda6bd-6e5f-49ef-93a8-a719475c3dd2)
+
 - Figure 14: Early Stopping
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/1682ae39-4c8a-4e11-b27d-9888519e74d9)
+
 - Figure 15: Bagging and Boosting Methods
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/a007a637-50f4-4db3-b3e7-f69ef17ad2c2)
 
 ### List of Tables
 
 - Table 1: Comparison Models Table
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/8f34af3a-db31-4fc9-a79b-7cd289a6ab44)
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/7f08ede5-fc15-49ab-8b3c-4c6083ae3756)
+![image](https://github.com/TrungTinns/machine-learning-models/assets/94519308/bd3f290f-b3c3-4ca0-8743-be1b4be32828)
 
 ## Acknowledgment
 
